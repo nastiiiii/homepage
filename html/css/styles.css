@@ -67,6 +67,7 @@ body {
         margin-right: 0;
     }
 }
+
 .contact-info__header,
   .contact-info__sub-header {
       text-align: center;
@@ -161,7 +162,7 @@ body {
     margin-bottom: 15px;
 }
 
-.skills__text {
+.skills__text http-server -c-1{
     color: var(--secondary-text-color);
     text-align: justify;
 }
